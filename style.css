@@ -1,0 +1,30 @@
+body {
+    background-color: brown
+}
+
+.main-header {
+    background-color: rgb(150, 150, 150);
+    text-align: center;
+    color: rgb(63, 61, 58);
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+
+}
+
+.other-header {
+    background-color: rgb(244, 238, 238);
+    text-align: right;
+    text-decoration: underline;
+    line-height: 30px;
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.list {
+    text-decoration: line-through;
+    color: aliceblue;
+}
+
+.para {
+    color: aliceblue;
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    text-decoration: underline;
+}
